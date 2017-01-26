@@ -8,7 +8,7 @@ Clone this repository, remove .git dir and run composer install
 
 ## Commands:
 
-npm install
+- `npm install`
 
-php artisan migrate - create tables
-php artisan artisan serve - run developer server in port 8000
+- `php artisan migrate` - create tables
+- `php artisan artisan serve` - run developer server in port 8000
